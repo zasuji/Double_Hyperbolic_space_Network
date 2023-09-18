@@ -1,2 +1,2 @@
-# Double_Hyperbolic_space_Network
+# Double Hyperbolic space Network
 Code is coming soon
